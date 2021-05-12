@@ -1,0 +1,5 @@
+# NOTE: 
+#	Only use this repository for Rasbperry PI ( any version ) or use on linux system(s) they are family of ARM CPUs.
+
+#deb http://archive.raspbian.org/raspbian wheezy main contrib non-free
+#deb-src http://archive.raspbian.org/raspbian wheezy main contrib non-free

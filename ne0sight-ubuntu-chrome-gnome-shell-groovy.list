@@ -1,0 +1,5 @@
+# WARNING:
+#	It's not a linux companny repository. May be packages are not safe.
+
+#deb http://ppa.launchpad.net/ne0sight/chrome-gnome-shell/ubuntu groovy main
+#deb-src http://ppa.launchpad.net/ne0sight/chrome-gnome-shell/ubuntu groovy main
