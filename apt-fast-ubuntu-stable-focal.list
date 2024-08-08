@@ -1,0 +1,6 @@
+#
+# Ubuntu 20.04
+#
+# deb http://ppa.launchpad.net/apt-fast/stable/ubuntu focal main
+# deb-src http://ppa.launchpad.net/apt-fast/stable/ubuntu focal main
+

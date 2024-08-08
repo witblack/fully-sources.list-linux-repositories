@@ -1,0 +1,5 @@
+#
+# Ubuntu 22.04
+#
+##deb https://ppa.launchpadcontent.net/deadsnakes/ppa/ubuntu/ jammy main
+# deb-src https://ppa.launchpadcontent.net/deadsnakes/ppa/ubuntu/ jammy main
